@@ -1,0 +1,7 @@
+error: §4You must add a player name.
+reload: §eYou have reloaded the plugin.
+onlist: §eThat player is already on the list.
+addlist: §eAdding §f%p §eto the list.
+notonlist: §eThat player is not on the list.
+removelist: §eRemoving §f%p §efrom the list.
+notonline: §eThat player is not online.

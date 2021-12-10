@@ -1,0 +1,7 @@
+worlds:
+  - world
+  - world_nether
+blocks:
+  - diamond_ore
+  - emerald_ore
+drop: coal

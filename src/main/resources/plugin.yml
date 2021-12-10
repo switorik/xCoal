@@ -1,0 +1,10 @@
+name: XCoal
+version: @version@
+main: switorik.xcoal.Main
+api-version: 1.16
+authors: [Switorik]
+description: If you want to stop a player from using xray without banning them.
+commands:
+  xcoal:
+    usage: /xcoal add
+    permission: xcoal.use
